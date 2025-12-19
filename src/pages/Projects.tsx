@@ -16,29 +16,29 @@ const projects: Project[] = [
     id: '1',
     image: '/images/attached_image.png',
     alt: 'Project showcase',
-    title: 'Project One',
-    description: 'A cool project I built that does amazing things. It uses React, TypeScript, and some other cool tech.'
+    title: 'do-eve',
+    description: 'do everything imessage agent that allows you to control your laptop with your phone'
   },
   {
     id: '2',
     image: '/images/gallery.jpg',
     alt: 'Gallery',
-    title: 'Project Two',
-    description: 'Another awesome project that solves real problems. Built with modern web technologies.'
+    title: 'vibetype',
+    description: 'autocomplete your typing, improving, rewriting, and even generating text'
   },
   {
     id: '3',
     image: '/images/guidebot.png',
     alt: 'Guidebot',
-    title: 'Project Three',
-    description: 'An autonomous robot project featuring advanced sensors and camera modules.'
+    title: 'guidebot',
+    description: 'An autonomous robot project featuring advanced sensors and camera modules to get people where they need to go'
   },
   {
     id: '4',
     image: '/images/Gemini_Generated_Image_hiqrr0hiqrr0hiqr.png',
     alt: 'Gemini Generated Image',
-    title: 'Project Four',
-    description: 'A creative project showcasing innovative design and technology.'
+    title: 'piano tiles',
+    description: 'built piano tiles in pygame'
   }
 ]
 
